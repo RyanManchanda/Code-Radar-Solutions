@@ -6,9 +6,9 @@ int main() {
     if(a=b*b){
         printf("Yes");
     }else if(b=a*a){
-        printf("Yes")
+        printf("Yes");
     }else{
-        printf("No")
+        printf("No");
     }
        
 
