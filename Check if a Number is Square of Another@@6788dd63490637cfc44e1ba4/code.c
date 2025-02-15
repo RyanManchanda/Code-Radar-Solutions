@@ -5,8 +5,6 @@ int main() {
     scanf("%d",&a,&b);
     if(a=b*b){
         printf("Yes");
-    }else if(b=a*a){
-        printf("Yes");
     }else{
         printf("No");
     }
