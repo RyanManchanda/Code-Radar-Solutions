@@ -17,4 +17,4 @@ void printArray(int arr[],int n){
         printf("%d ",arr[i]);
     }
     printf("\n");
-}.
+}
